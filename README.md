@@ -1,4 +1,4 @@
-# Weather Data Analysis and Rainfall Prediction using Python
+# Weather Data Analysis and Rainfall Prediction
 
 ## Project Description
 
